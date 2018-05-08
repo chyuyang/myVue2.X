@@ -5,7 +5,6 @@ import store from '@/store'
 import lazyRender from 'vue-lazy-render'
 
 Vue.use(lazyRender)
-
 new Vue({
   el: '#app',
   router,
